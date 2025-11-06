@@ -14,3 +14,8 @@ Practice daily coding
 Prepare for interviews
 
 Stay consistent 🚀
+
+# Topics Covered
+ - Programming Basics 
+ - Functions, if-else
+ - Loops
