@@ -14,8 +14,9 @@ I'm starting from absolute basics and documenting every concept, code, and probl
 - Programming Basics  
   - Functions  
   - If / Else  
-  - Loops  
-- Basic Problems 
+  - Loops
+  
+<summary> Basic Problems ✅</summary>
   1. Print Numbers from 1 to 10 
 
-## 📂 Repo structure (example)
+
