@@ -1,21 +1,21 @@
 # 🧠 DSA Journey — Akshay Saini Series
 
-# 📘 Overview
-Hey there 👋
-This repo is my personal log while learning Data Structures & Algorithms from Akshay Saini’s DSA playlist.
-I’m starting from absolute basics and documenting every concept, code, and problem I practice here.
+## 📘 Overview
+This repository is my personal log while learning Data Structures & Algorithms from Akshay Saini’s DSA playlist.  
+I'm starting from absolute basics and documenting every concept, code, and problem I practice here.
 
-🏁 Goal
+## 🏁 Goal
+- Build a strong DSA foundation  
+- Practice daily coding  
+- Prepare for interviews  
+- Stay consistent 🚀
 
-Build a strong DSA foundation
+## 📚 Topics Covered
+- Programming Basics  
+  - Functions  
+  - If / Else  
+  - Loops  
+- Basic Problems 
+  1. Print Numbers from 1 to 10 
 
-Practice daily coding
-
-Prepare for interviews
-
-Stay consistent 🚀
-
-# Topics Covered
- - Programming Basics 
- - Functions, if-else
- - Loops
+## 📂 Repo structure (example)
