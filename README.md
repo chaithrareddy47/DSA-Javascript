@@ -39,9 +39,9 @@ I'm starting from absolute basics and documenting every concept, code, and probl
 
 
 # 💡 Notes to Self
-   Always do problems manually first, before coding — helps understand loops and logic deeply.
-   %10 gives the last digit, /10 removes it.
-   For reverse number, *10 shifts digits left and creates space.
-   DSA isn’t tough — it just needs patience + practice + understanding ❤️
+    - Always do problems manually first, before coding — helps understand loops and logic deeply.
+    - %10 gives the last digit, /10 removes it.
+    - For reverse number, *10 shifts digits left and creates space.
+    - DSA isn’t tough — it just needs patience + practice + understanding ❤️
 
 
