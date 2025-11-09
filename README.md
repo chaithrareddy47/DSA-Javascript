@@ -35,13 +35,10 @@ I'm starting from absolute basics and documenting every concept, code, and probl
 | DSA Math | Product of digits           | `%`, `/`, `*`, while loop   | ✅      | understood why product starts from 1 not 0                |
 | DSA Math | Armstrong number            | `%`, `/`, `**` (power)      | ✅      | understood how to raise each digit to count power and sum |
 
-
-
 ---
 
 ✅ Total Completed: 11 problems
 🧠 Next Goal: Move to new topics — Strong Numbers, Factors, or Prime Numbers 💪
-
 
 # 💡 Notes to Self
     - Always do problems manually first, before coding — helps understand loops and logic deeply.
