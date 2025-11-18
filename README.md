@@ -56,7 +56,7 @@ I'm starting from absolute basics and documenting every concept, code, and probl
 ---
 
 ✅ Total Completed: 15 problems
-🧠 Next Goal: Move to new topics — Strong Numbers, Factors, or Prime Numbers 💪
+
 
 # 💡 Notes to Self
 
