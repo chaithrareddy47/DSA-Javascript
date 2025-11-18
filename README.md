@@ -1,26 +1,40 @@
 # 🧠 DSA Journey — Akshay Saini Series
 
 ## 📘 Overview
-This repository is my personal log while learning Data Structures & Algorithms from Akshay Saini’s DSA playlist.  
+
+This repository is my personal log while learning Data Structures & Algorithms from Akshay Saini’s DSA playlist.
 I'm starting from absolute basics and documenting every concept, code, and problem I practice here.
 
 ## 🏁 Goal
-- Build a strong DSA foundation  
-- Practice daily coding  
-- Prepare for interviews  
-- Stay consistent 🚀
+
+* Build a strong DSA foundation
+* Practice daily coding
+* Prepare for interviews
+* Stay consistent 🚀
 
 ## 📚 Topics Covered
-## Programming Basics  
-    - Functions  
-    - If / Else  
-    - Loops
- ## DSA Math & Logic
-    - Count digits
-    - Sum of digit
-    - Reverse a number   
+
+### Programming Basics
+
+* Functions
+* If / Else
+* Loops
+
+### DSA Math & Logic
+
+* Count digits
+* Sum of digits
+* Reverse a number
+
+### Array Basics
+
+* Print all elements in an array
+* Find the minimum element
+* Find the maximum element
+* Find the sum of all elements
 
 # 🚀 Coding Progress Tracker
+
 | Level    | Problem                     | Concepts                    | Status | Notes                                                     |
 | -------- | --------------------------- | --------------------------- | ------ | --------------------------------------------------------- |
 | Basics   | Print numbers 1 to 10       | for loop                    | ✅      | done, I first did manually then coded                     |
@@ -34,18 +48,22 @@ I'm starting from absolute basics and documenting every concept, code, and probl
 | DSA Math | Count even & odd digits     | `%`, `/`, `if condition`    | ✅      | learnt to check each digit using `%2`                     |
 | DSA Math | Product of digits           | `%`, `/`, `*`, while loop   | ✅      | understood why product starts from 1 not 0                |
 | DSA Math | Armstrong number            | `%`, `/`, `**` (power)      | ✅      | understood how to raise each digit to count power and sum |
+| Arrays   | Print all elements in array | loop, indexing              | ✅      | learnt difference between index and value                 |
+| Arrays   | Find minimum element        | loop, comparison            | ✅      | understood how tracking min works step-by-step            |
+| Arrays   | Find maximum element        | loop, comparison            | ✅      | realised how updating max works inside loop               |
+| Arrays   | Sum of all elements         | loop, accumulator variable  | ✅      | easy and similar to sum of digits logic                   |
 
 ---
 
-✅ Total Completed: 11 problems
+✅ Total Completed: 15 problems
 🧠 Next Goal: Move to new topics — Strong Numbers, Factors, or Prime Numbers 💪
 
 # 💡 Notes to Self
-    - Always do problems manually first, before coding — helps understand loops and logic deeply.
-    - %10 gives the last digit, /10 removes it.
-    - For reverse number, *10 shifts digits left and creates space.
-    - For Armstrong, count digits first, then raise each digit to that power.
+
+* Always do problems manually first, before coding — helps understand loops and logic deeply.
+* `%10` gives the last digit, `/10` removes it.
+* For reverse number, `*10` shifts digits left and creates space.
+* For Armstrong, count digits first, then raise each digit to that power.
+* Arrays are easier because values are already separated — no need to extract digits.
 
 ## DSA isn’t tough — it just needs patience + practice + understanding ❤️
-
-
