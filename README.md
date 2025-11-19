@@ -52,11 +52,13 @@ I'm starting from absolute basics and documenting every concept, code, and probl
 | Arrays   | Find minimum element        | loop, comparison            | ✅      | understood how tracking min works step-by-step            |
 | Arrays   | Find maximum element        | loop, comparison            | ✅      | realised how updating max works inside loop               |
 | Arrays   | Sum of all elements         | loop, accumulator variable  | ✅      | easy and similar to sum of digits logic                   |
+| Arrays   | Linear search               | loop + comparison           | ✅      | Day 2 Problem 1 completed                                 |
+| Arrays   | Count frequency             | loop + condition            | ⏳      | Day 2 Problem 2 in progress                               |
+| Arrays   | Count positives/negatives   | loop + condition            | ⏳      | Day 2 Problem 3 in progress                               |
 
 ---
 
-✅ Total Completed: 15 problems
-
+✅ Total Completed: 18 problems
 
 # 💡 Notes to Self
 
