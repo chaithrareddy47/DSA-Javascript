@@ -65,4 +65,5 @@ This repository is my personal log while learning Data Structures & Algorithms f
 * For reverse number, *10 shifts digits left and creates space.
 * For Armstrong, count digits first, then raise each digit to that power.
 * Arrays are easier because values are already separated — no need to extract digits.
-* DSA isn’t tough — it just needs patience + practice + understanding ❤️
+  
+# DSA isn’t tough — it just needs patience + practice + understanding ❤️
